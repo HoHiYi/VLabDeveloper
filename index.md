@@ -11,10 +11,9 @@
 
 ### bug与优化建议
 
-bug与优化建议请在gitlab中提issue，会定期进行解决
-http://git.sdp.nd/VLabEquipments/vlabdeveloper/-/issues
+bug与优化建议请在[GitLab](http://git.sdp.nd/VLabEquipments/vlabdeveloper/-/issues)中提issue，会定期进行解决
 
 
-![avatar](Icon.ico)
+
 
 [1]: https://hohiyi.github.io/VLabDeveloper/VLabDeveloper.application
