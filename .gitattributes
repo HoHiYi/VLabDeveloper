@@ -1,1 +1,3 @@
 *.deploy binary
+*.application binary
+*.manifest binary
